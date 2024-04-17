@@ -1,2 +1,1 @@
-- Really I should be named Daaa22 but someone already has taken that
-- I'm interested in IT and math, especially in solving problems that require out of the box thinking
+Playable chess
